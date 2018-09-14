@@ -6,10 +6,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f3ee88c-c285-4074-9ef0-7086e3f5fd3e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/sptechinfo/genericadapter/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/sptechinfo/genericadapter/MainActivity.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/sptechinfo/genericadapter/model/TicketChat.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/sptechinfo/genericadapter/model/GeneralDataModel.java" />
-    </list>
+    <list default="true" id="4f3ee88c-c285-4074-9ef0-7086e3f5fd3e" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
