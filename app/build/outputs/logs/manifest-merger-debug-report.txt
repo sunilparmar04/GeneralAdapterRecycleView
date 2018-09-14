@@ -1,0 +1,171 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/nobroker/android example/GenericAdapter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/nobroker/android example/GenericAdapter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/nobroker/android example/GenericAdapter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/nobroker/android example/GenericAdapter/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:design:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc02.aar/c7225fee26ff3eef87c8ad44c1624639/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc02.aar/f46d72b045c35802392d5f6c8b539877/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-rc02.aar/99cb78d90560d1535a4326fc01ec43a1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/nobroker/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d365292f2669a879b0d255df3983c82f/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc02.aar/045d6123fb87070b613e6b75eac17f50/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc02.aar/3c19fbf7bc6416a8e7911d45abbed1e7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc02.aar/7e0edc6313151145eabc310ac011d9d4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc02.aar/f1e42f5d7e56c3a4009b18376a320a37/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc02.aar/655f0a0aed560f2cd65ab75867353012/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc02.aar/d55420d4c347898936f54ff59502c45c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-rc02.aar/9dee43d2447c12feb0069c761f50c613/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc02.aar/7dd0411f03fd0eeffd60e6eac6651d2d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc02.aar/9f4b8d9c2ff437c2d20ac26b955490f8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc02.aar/c412a8f6379c596982c9b16be87ac18c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc02.aar/d285e31ea9fc4b29715d85bec832fcd8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc02.aar/e1d65f420885a0f7c9a5c0c98b42f634/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc02.aar/ffba4dba48fc55b407cfb99d2b446129/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc02.aar/c23045589c7460472a5b0939dc9dca07/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc02.aar/7800be7e9b945c1ae90ca763c57ef0d4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc02.aar/c236d7b2152385570f4fa9c00bcfcca5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/c5b97473b0631c23d403e9a53194fe80/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/7f158187fce429f4f7f809dadfdcd1df/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc02.aar/7ae28914716775f161be57f9c6e9f2cc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc02.aar/82bffbac3280418463abd625e78d63cd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/nobroker/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/13bdf7ca9e10801b6731693c26a511b9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc02.aar/64853cd714ec5daddb0e4ddc6638f425/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc02.aar/11e40090c1bb9845338c95ae9f760541/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc02.aar/3daf2f0b86aa539d46ae9ea5af248347/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/nobroker/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/aac3e6e8812fca87259e5a05335f3b78/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc02.aar/d43d45f61f78c8ab72cbed9b0e1685cd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/nobroker/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/7bd7baf53155df15e8571b7509d7eda5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/nobroker/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/df5548af4d18d20923895c7bf82bf7b8/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/nobroker/android example/GenericAdapter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/nobroker/android example/GenericAdapter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/nobroker/android example/GenericAdapter/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/nobroker/android example/GenericAdapter/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /home/nobroker/android example/GenericAdapter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nobroker/android example/GenericAdapter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/nobroker/android example/GenericAdapter/app/src/main/AndroidManifest.xml
+		ADDED from /home/nobroker/android example/GenericAdapter/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/nobroker/android example/GenericAdapter/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/nobroker/android example/GenericAdapter/app/src/main/AndroidManifest.xml
+		ADDED from /home/nobroker/android example/GenericAdapter/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/nobroker/android example/GenericAdapter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/nobroker/android example/GenericAdapter/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/nobroker/android example/GenericAdapter/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:design:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc02.aar/c7225fee26ff3eef87c8ad44c1624639/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc02.aar/c7225fee26ff3eef87c8ad44c1624639/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/nobroker/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d365292f2669a879b0d255df3983c82f/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/nobroker/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d365292f2669a879b0d255df3983c82f/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/c5b97473b0631c23d403e9a53194fe80/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/c5b97473b0631c23d403e9a53194fe80/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/7f158187fce429f4f7f809dadfdcd1df/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/7f158187fce429f4f7f809dadfdcd1df/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/c5b97473b0631c23d403e9a53194fe80/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/nobroker/android example/GenericAdapter/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/nobroker/android example/GenericAdapter/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/nobroker/android example/GenericAdapter/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/nobroker/android example/GenericAdapter/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/nobroker/android example/GenericAdapter/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/nobroker/android example/GenericAdapter/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.sptechinfo.genericadapter.MainActivity
+ADDED from /home/nobroker/android example/GenericAdapter/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/nobroker/android example/GenericAdapter/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/nobroker/android example/GenericAdapter/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/nobroker/android example/GenericAdapter/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/nobroker/android example/GenericAdapter/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/nobroker/android example/GenericAdapter/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/nobroker/android example/GenericAdapter/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/nobroker/android example/GenericAdapter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/nobroker/android example/GenericAdapter/app/src/main/AndroidManifest.xml
+INJECTED from /home/nobroker/android example/GenericAdapter/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc02.aar/c7225fee26ff3eef87c8ad44c1624639/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc02.aar/c7225fee26ff3eef87c8ad44c1624639/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc02.aar/f46d72b045c35802392d5f6c8b539877/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc02.aar/f46d72b045c35802392d5f6c8b539877/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-rc02.aar/99cb78d90560d1535a4326fc01ec43a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-rc02.aar/99cb78d90560d1535a4326fc01ec43a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/nobroker/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d365292f2669a879b0d255df3983c82f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/nobroker/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d365292f2669a879b0d255df3983c82f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc02.aar/045d6123fb87070b613e6b75eac17f50/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc02.aar/045d6123fb87070b613e6b75eac17f50/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc02.aar/3c19fbf7bc6416a8e7911d45abbed1e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc02.aar/3c19fbf7bc6416a8e7911d45abbed1e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc02.aar/7e0edc6313151145eabc310ac011d9d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc02.aar/7e0edc6313151145eabc310ac011d9d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc02.aar/f1e42f5d7e56c3a4009b18376a320a37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc02.aar/f1e42f5d7e56c3a4009b18376a320a37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc02.aar/655f0a0aed560f2cd65ab75867353012/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc02.aar/655f0a0aed560f2cd65ab75867353012/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc02.aar/d55420d4c347898936f54ff59502c45c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc02.aar/d55420d4c347898936f54ff59502c45c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-rc02.aar/9dee43d2447c12feb0069c761f50c613/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-rc02.aar/9dee43d2447c12feb0069c761f50c613/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc02.aar/7dd0411f03fd0eeffd60e6eac6651d2d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc02.aar/7dd0411f03fd0eeffd60e6eac6651d2d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc02.aar/9f4b8d9c2ff437c2d20ac26b955490f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc02.aar/9f4b8d9c2ff437c2d20ac26b955490f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc02.aar/c412a8f6379c596982c9b16be87ac18c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc02.aar/c412a8f6379c596982c9b16be87ac18c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc02.aar/d285e31ea9fc4b29715d85bec832fcd8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc02.aar/d285e31ea9fc4b29715d85bec832fcd8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc02.aar/e1d65f420885a0f7c9a5c0c98b42f634/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc02.aar/e1d65f420885a0f7c9a5c0c98b42f634/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc02.aar/ffba4dba48fc55b407cfb99d2b446129/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc02.aar/ffba4dba48fc55b407cfb99d2b446129/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc02.aar/c23045589c7460472a5b0939dc9dca07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc02.aar/c23045589c7460472a5b0939dc9dca07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc02.aar/7800be7e9b945c1ae90ca763c57ef0d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc02.aar/7800be7e9b945c1ae90ca763c57ef0d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc02.aar/c236d7b2152385570f4fa9c00bcfcca5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc02.aar/c236d7b2152385570f4fa9c00bcfcca5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/c5b97473b0631c23d403e9a53194fe80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/c5b97473b0631c23d403e9a53194fe80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/7f158187fce429f4f7f809dadfdcd1df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/7f158187fce429f4f7f809dadfdcd1df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc02.aar/7ae28914716775f161be57f9c6e9f2cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc02.aar/7ae28914716775f161be57f9c6e9f2cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc02.aar/82bffbac3280418463abd625e78d63cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc02.aar/82bffbac3280418463abd625e78d63cd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/nobroker/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/13bdf7ca9e10801b6731693c26a511b9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/nobroker/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/13bdf7ca9e10801b6731693c26a511b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc02.aar/64853cd714ec5daddb0e4ddc6638f425/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc02.aar/64853cd714ec5daddb0e4ddc6638f425/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc02.aar/11e40090c1bb9845338c95ae9f760541/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc02.aar/11e40090c1bb9845338c95ae9f760541/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc02.aar/3daf2f0b86aa539d46ae9ea5af248347/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc02.aar/3daf2f0b86aa539d46ae9ea5af248347/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/nobroker/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/aac3e6e8812fca87259e5a05335f3b78/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/nobroker/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/aac3e6e8812fca87259e5a05335f3b78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc02.aar/d43d45f61f78c8ab72cbed9b0e1685cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc02] /home/nobroker/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc02.aar/d43d45f61f78c8ab72cbed9b0e1685cd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/nobroker/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/7bd7baf53155df15e8571b7509d7eda5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/nobroker/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/7bd7baf53155df15e8571b7509d7eda5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/nobroker/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/df5548af4d18d20923895c7bf82bf7b8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/nobroker/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/df5548af4d18d20923895c7bf82bf7b8/AndroidManifest.xml:20:5-44
+INJECTED from /home/nobroker/android example/GenericAdapter/app/src/main/AndroidManifest.xml
+INJECTED from /home/nobroker/android example/GenericAdapter/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/nobroker/android example/GenericAdapter/app/src/main/AndroidManifest.xml
+		ADDED from /home/nobroker/android example/GenericAdapter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nobroker/android example/GenericAdapter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/nobroker/android example/GenericAdapter/app/src/main/AndroidManifest.xml
+		ADDED from /home/nobroker/android example/GenericAdapter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nobroker/android example/GenericAdapter/app/src/main/AndroidManifest.xml
